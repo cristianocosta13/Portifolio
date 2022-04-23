@@ -1,0 +1,31 @@
+body{
+    background-color:beige;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align-last: center;
+    color: beige;
+  }
+  
+  h1, h2, h3, p{
+      color: brown;
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+
+  p{
+    line-height: 0.80;
+  }
+
+  div{
+    display: inline-block;
+    text-align-last: center;
+    color: darkgreen;
+  }
+
+  table{
+      height: 10px;
+      text-align-last: center;
+  }
+
+  img{
+      border-radius: 50%;
+      border: 3px solid rgb(134, 45, 45); 
+  }
